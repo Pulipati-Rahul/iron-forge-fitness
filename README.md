@@ -139,7 +139,7 @@ This project demonstrates professional frontend development skills including res
 
 | Success Stories | Schedule |
 |-----------------|----------|
-| ![](screenshots/07-stories.png) | ![](screenshots/08-schedule.png) |
+| ![](screenshots/07-stories.png) | ![](screenshots/08-Schedule.png) |
 
 ---
 
@@ -163,7 +163,7 @@ This project demonstrates professional frontend development skills including res
 
 | Mobile Preview |
 |----------------|
-| ![](screenshots/09-mobile-preview.png) |
+| ![](screenshots/12-mobile-preview.png) |
 
 ---
 
