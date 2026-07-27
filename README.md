@@ -153,8 +153,8 @@ This project demonstrates professional frontend development skills including res
 
 ### ❓ FAQ
 
-| FAQ | Mobile Preview |
-|-----|----------------|
+| FAQ |
+|------|
 | ![](screenshots/11-faqs.png) | 
 
 ---
