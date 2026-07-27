@@ -151,11 +151,11 @@ This project demonstrates professional frontend development skills including res
 
 ---
 
-### ❓ FAQ & 📱 Mobile View
+### ❓ FAQ
 
 | FAQ | Mobile Preview |
 |-----|----------------|
-| ![](screenshots/11-faqs.png) | ![](screenshots/12-mobile-preview.png) |
+| ![](screenshots/11-faqs.png) | 
 
 ---
 
