@@ -1,36 +1,274 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏋️ Iron Forge Fitness
 
-## Getting Started
+A premium, fully responsive fitness and gym website designed for modern fitness centers, personal trainers, and luxury health clubs. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion to deliver an immersive, high-performance user experience.
 
-First, run the development server:
+🔗 **Live Demo:** https://iron-forgee-fitness.vercel.app
+
+---
+
+# 📖 About the Project
+
+Iron Forge Fitness is a premium landing website created for modern gyms and luxury fitness clubs.
+
+The website showcases training programs, memberships, expert trainers, BMI calculator, transformation stories, schedules, and contact information through an elegant user interface with smooth animations and responsive layouts.
+
+This project demonstrates professional frontend development skills including responsive design, reusable component architecture, advanced animations, modern UI/UX principles, and production deployment.
+
+---
+
+# ✨ Features
+
+### 🏋️ Hero Section
+
+- Premium animated landing page
+- Full-screen hero banner
+- Call-to-action buttons
+- Smooth entrance animations
+
+### 💪 Training Programs
+
+- Strength Training
+- Functional Fitness
+- HIIT Programs
+- Cardio Sessions
+- Yoga & Mobility
+- Personal Coaching
+
+### 💳 Membership Plans
+
+- Multiple pricing plans
+- Membership comparison
+- Premium membership section
+- Call-to-action cards
+
+### 👨‍🏫 Expert Trainers
+
+- Professional trainer profiles
+- Experience highlights
+- Specializations
+- Certifications showcase
+
+### ⚖️ BMI Calculator
+
+- Interactive BMI calculator
+- Instant health status
+- Responsive calculations
+- User-friendly interface
+
+### 📅 Schedule
+
+- Weekly class schedule
+- Workout timetable
+- Training sessions
+- Organized layout
+
+### 🖼 Gallery
+
+- Modern fitness gallery
+- High-quality imagery
+- Responsive image grid
+- Smooth hover effects
+
+### 📞 Contact
+
+- Contact form
+- Google Maps integration
+- Gym information
+- Business hours
+
+### 🎨 User Experience
+
+- Fully responsive
+- Mobile-first design
+- Smooth page animations
+- Scroll effects
+- Elegant typography
+- Luxury color palette
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+## UI & Styling
+
+- Responsive Design
+- CSS Grid
+- Flexbox
+- Modern Animations
+
+## Deployment
+
+- Vercel
+
+---
+
+# 📸 Screenshots
+
+### 🏠 Home & Programs
+
+| Home | Programs |
+|------|----------|
+| ![](screenshots/01-home.png) | ![](screenshots/02-programs.png) |
+
+---
+
+### 💳 Memberships & Trainers
+
+| Memberships | Trainers |
+|-------------|----------|
+| ![](screenshots/03-memberships.png) | ![](screenshots/04-trainers.png) |
+
+---
+
+### ⚖️ BMI Calculator & Schedule
+
+| BMI Calculator | Schedule |
+|----------------|----------|
+| ![](screenshots/05-bmi.png) | ![](screenshots/06-schedule.png) |
+
+---
+
+### 🖼 Gallery & Contact
+
+| Gallery | Contact |
+|----------|----------|
+| ![](screenshots/07-gallery.png) | ![](screenshots/08-contact.png) |
+
+---
+
+### 📱 Mobile View
+
+| Mobile Preview |
+|----------------|
+| ![](screenshots/09-mobile-preview.png) |
+
+---
+
+# 📂 Project Structure
+
+```text
+iron-forge-fitness
+│
+├── public
+│
+├── src
+│   ├── app
+│   ├── components
+│   ├── data
+│   ├── hooks
+│   ├── lib
+│   └── styles
+│
+└── screenshots
+```
+
+---
+
+# ⚙️ Installation
+
+## Clone the repository
+
+```bash
+git clone https://github.com/Pulipati-Rahul/iron-forge-fitness.git
+```
+
+## Navigate into the project
+
+```bash
+cd iron-forge-fitness
+```
+
+## Install dependencies
+
+```bash
+npm install
+```
+
+---
+
+# ▶️ Running the Project
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Runs on
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# 🌍 Live Deployment
 
-To learn more about Next.js, take a look at the following resources:
+Live Website
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+https://your-vercel-url.vercel.app
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 💡 What I Learned
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+While building this project, I learned:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Building production-ready Next.js applications
+- Creating reusable React components
+- Responsive UI design
+- Advanced Tailwind CSS techniques
+- Framer Motion animations
+- Performance optimization
+- Git & GitHub workflow
+- Vercel deployment
+- Professional UI/UX design
+
+---
+
+# 🚀 Future Improvements
+
+- Online membership registration
+- Payment gateway integration
+- Trainer booking system
+- Workout tracking dashboard
+- User authentication
+- Nutrition planner
+- AI workout recommendations
+- Dark / Light theme
+- Blog section
+- Admin dashboard
+
+---
+
+# 👨‍💻 Author
+
+**Pulipati Rahul**
+
+Full Stack Developer
+
+GitHub
+
+https://github.com/Pulipati-Rahul
+
+LinkedIn
+
+https://www.linkedin.com/in/pulipatirahul
+
+Portfolio
+
+https://pulipatirahul.vercel.app
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+It motivates me to continue building high-quality projects.
