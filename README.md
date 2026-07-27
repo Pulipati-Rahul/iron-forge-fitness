@@ -109,30 +109,37 @@ This project demonstrates professional frontend development skills including res
 - Vercel
 
 ---
-
 # 📸 Screenshots
 
-### 🏠 Home & Programs
+### 🏠 Home & About
 
-| Home | Programs |
-|------|----------|
-| ![](screenshots/01-home.png) | ![](screenshots/02-programs.png) |
-
----
-
-### 💳 Memberships & Trainers
-
-| Memberships | Trainers |
-|-------------|----------|
-| ![](screenshots/03-memberships.png) | ![](screenshots/04-trainers.png) |
+| Home | About |
+|------|-------|
+| ![](screenshots/01-home.png) | ![](screenshots/02-about.png) |
 
 ---
 
-### ⚖️ BMI Calculator & Schedule
+### 💪 Programs & Memberships
 
-| BMI Calculator | Schedule |
-|----------------|----------|
-| ![](screenshots/05-bmi.png) | ![](screenshots/06-schedule.png) |
+| Programs | Memberships |
+|----------|-------------|
+| ![](screenshots/03-programs.png) | ![](screenshots/04-memberships.png) |
+
+---
+
+### 👨‍🏫 Trainers & BMI Calculator
+
+| Trainers | BMI Calculator |
+|-----------|----------------|
+| ![](screenshots/05-trainers.png) | ![](screenshots/06-bmi-calculator.png) |
+
+---
+
+### ⭐ Success Stories & Schedule
+
+| Success Stories | Schedule |
+|-----------------|----------|
+| ![](screenshots/07-stories.png) | ![](screenshots/08-schedule.png) |
 
 ---
 
@@ -140,7 +147,15 @@ This project demonstrates professional frontend development skills including res
 
 | Gallery | Contact |
 |----------|----------|
-| ![](screenshots/07-gallery.png) | ![](screenshots/08-contact.png) |
+| ![](screenshots/09-gallery.png) | ![](screenshots/10-contact.png) |
+
+---
+
+### ❓ FAQ & 📱 Mobile View
+
+| FAQ | Mobile Preview |
+|-----|----------------|
+| ![](screenshots/11-faqs.png) | ![](screenshots/12-mobile-preview.png) |
 
 ---
 
